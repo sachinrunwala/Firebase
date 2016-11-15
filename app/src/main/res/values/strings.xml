@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_sign__in_">Sign_In_Activity</string>
+</resources>
